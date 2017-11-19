@@ -1,0 +1,4 @@
+<resources>
+    <string name="userName">Please Enter your UserName here</string>
+    <string name="password">Please Enter your Password here</string>
+</resources>
